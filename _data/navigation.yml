@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Home"
+    url: https://liamns.github.io
+  - title: "Django"
+    url: /categories/django
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+
+docs:
+  - title: Backend
+    children:
+      - title: "Django"
+        url: /django/
+        category: "django"
+  - title: Etc
+    children:
+      - title: "Diary"
+        url: /diary/
+        category: "diary"
