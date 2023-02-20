@@ -10,6 +10,8 @@ main:
     url: /tags/
 
 docs:
+  - title: Project
+    url: /project/
   - title: Backend
     children:
       - title: "Django"
