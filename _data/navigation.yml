@@ -17,7 +17,6 @@ docs:
       - title: "Django"
         url: /django/
         category: "django"
-    children:
       - title: "Java"
         url: /java/
         category: "java"
