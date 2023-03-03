@@ -50,3 +50,7 @@ RESTful API 에 대한 설명
 # 2023-02-28
 
 Spring 2일차 학습 내용정리
+
+# 2023-03-03
+
+Spring 3일차 `Spring Data JPA` 학습 내용정리
